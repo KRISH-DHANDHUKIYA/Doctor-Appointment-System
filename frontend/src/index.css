@@ -72,3 +72,15 @@ button:focus-visible {
   padding: 0px;
   box-sizing: border-box;
 }
+
+.book-btn {
+  background-color: #00a6fb;
+  color: #fff;
+  border: 1px solid #00a6fb;
+  transition: all 0.3s ease;
+}
+
+.book-btn:hover {
+  background-color: transparent;
+  color: #00a6fb;
+}
